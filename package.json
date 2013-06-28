@@ -1,0 +1,14 @@
+{
+    "license": "MPL 2.0",
+    "description": "Block requests to the snippets server when loading about:home.",
+    "contributors": [],
+    "author": "hoosteeno",
+    "url": "http://github.com/hoosteeno/snip-snippets",
+    "dependencies": ["api-utils", "addon-kit"],
+    "version": "0.0.1",
+    "lib": "lib",
+    "fullName": "snip-snippets",
+    "main": "main",
+    "id": "snip-snippets@mozilla.org",
+    "name": "snip-snippets"
+}

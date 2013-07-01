@@ -5,7 +5,7 @@
     "author": "hoosteeno",
     "url": "http://github.com/hoosteeno/snip-snippets",
     "dependencies": ["api-utils", "addon-kit"],
-    "version": "0.0.1",
+    "version": "0.0.2",
     "lib": "lib",
     "fullName": "snip-snippets",
     "main": "main",

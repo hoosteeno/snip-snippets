@@ -1,6 +1,6 @@
 {
     "license": "MPL 2.0",
-    "description": "Block requests to the snippets server when loading about:home.",
+    "description": "Block requests to Mozilla's snippets and geolocation servers when loading about:home.",
     "contributors": [],
     "author": "hoosteeno",
     "url": "http://github.com/hoosteeno/snip-snippets",
